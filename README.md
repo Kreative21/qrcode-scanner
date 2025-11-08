@@ -54,8 +54,7 @@ Whether you’re scanning for security, access control, or fun — this tool mak
 
 ### 🧩 Step 1 — Clone the Repository
 ```bash
-git clone https://github.com/yourusername/qr-cam.git
-cd qr-cam
+git clone https://github.com/Kreative21/qrcode-scanner.git
 ```
 
 
