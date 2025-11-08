@@ -58,7 +58,7 @@ git clone https://github.com/Kreative21/qrcode-scanner.git
 
 
 ### 🐍 Step 2 — Install Python
-Download and install Python 3.14 (or newer) from the official ![Python website](https://www.python.org/downloads/)
+Download and install Python 3.14 (or newer) from the official [Python website](https://www.python.org/downloads/)
 
 During installation:
 
