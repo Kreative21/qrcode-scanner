@@ -31,11 +31,10 @@ Whether you’re scanning for security, access control, or fun — this tool mak
 
 ## 🖼️ Screenshots
 
-> *(Add your screenshots below for a professional look)*
 
 | Home Screen | Scanning Mode | Access Granted |
 |--------------|---------------|----------------|
-| ![Home](screenshots/home.png) | ![Scanning](screenshots/scanning.png) | ![Granted](screenshots/access_granted.png) |
+| ![Home](screenshots/home.jpg) | ![Scanning](screenshots/scanning.jpg) | ![Granted](screenshots/access.jpg) |
 
 ---
 
