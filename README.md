@@ -57,6 +57,8 @@ Whether you’re scanning for security, access control, or fun — this tool mak
 git clone https://github.com/yourusername/qr-cam.git
 cd qr-cam
 ```
+
+
 ### 🐍 Step 2 — Install Python
 Download and install Python 3.14 (or newer) from the official ![Python website](https://www.python.org/downloads/)
 
@@ -73,16 +75,19 @@ python --version
 You should see:
 `Python x.xx.x (Your Version)`
 
+
 ### 📦 Step 3 — Install Dependencies
 Install the required Python libraries:
 ```bash
 pip install opencv-python pillow
 ```
 
+
 ### 🧾 Step 4 — Create the Codes File
 Edit the data in the file named `codes.txt` in the same folder as main.py and add your allowed codes separated by commas:
 
 `12345, 67890, HELLO-WORLD`
+
 
 ### ▶️ Step 5 — Run the Application
 
@@ -97,6 +102,8 @@ You’ll see the window open with:
 `[ Start Camera ] [ Pause ] [ Resume ] [ Reload Codes ] [ Exit ]` <br>
 `Status: Ready to scan`
 
+---
+
 # 🙌 Credits
 
 👨‍💻 Developer: Ronak (aka L)
@@ -104,6 +111,8 @@ You’ll see the window open with:
 🧠 Concept & Design: Inspired by modern access control systems <br>
 💻 Built with: Python, OpenCV, Tkinter, and Pillow <br>
 🎨 UI Theme: Dark Theme
+
+---
 
 # ⭐ Support & Feedback
 
