@@ -1,4 +1,4 @@
-# 🎥 Modern QR Code Scanner (QR Cam)
+# 🎥 QR Code Scanner (QR Cam)
 
 [![Python](https://img.shields.io/badge/Python-3.14-blue?logo=python)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green?logo=opencv)](https://opencv.org/)
